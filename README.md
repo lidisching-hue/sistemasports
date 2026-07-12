@@ -215,37 +215,37 @@ Contienen toda la interfaz gráfica del sistema.
 
 # 🖼 Capturas del sistema
 
-## 🔐 Inicio de sesión
+## 🔐 Captura 1
 
 ![Inicio](Capturas/Captura%201.png)
 
 ---
 
-## 📊 Dashboard
+## 📊 Captura 2
 
 ![Dashboard](Capturas/Captura%202.png)
 
 ---
 
-## 📦 Gestión de productos
+## 📦 Captura 3
 
 ![Productos](Capturas/Captura%203.png)
 
 ---
 
-## 👥 Gestión de clientes
+## 👥 Captura 4
 
 ![Clientes](Capturas/Captura%204.png)
 
 ---
 
-## 🛒 Gestión de compras
+## 🛒 Captura 5
 
 ![Compras](Capturas/Captura%205.png)
 
 ---
 
-## 👤 Gestión de usuarios
+## 👤 Captura 6
 
 ![Usuarios](Capturas/Captura%206.png)
 
