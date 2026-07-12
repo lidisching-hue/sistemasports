@@ -265,20 +265,6 @@ Contienen toda la interfaz gráfica del sistema.
 
 ---
 
-# 🔮 Mejoras futuras
-
-- Registro de ventas.
-- Reportes en PDF.
-- Exportación a Excel.
-- Gestión de proveedores.
-- Control de stock mínimo.
-- Historial de movimientos.
-- Dashboard con estadísticas avanzadas.
-- Auditoría de usuarios.
-- Control de permisos por roles.
-
----
-
 # 👨‍💻 Autor
 
 **Lidis Chinguel Aponte**
@@ -295,7 +281,7 @@ https://github.com/lidisching-hue
 
 # ⭐ Si este proyecto te resulta útil
 
-Puedes dejar una ⭐ en el repositorio para apoyar el proyecto.
+Puedes dejar una ⭐ en el repositorio para apoyar el proyecto y clonalo.
 
 ---
 
